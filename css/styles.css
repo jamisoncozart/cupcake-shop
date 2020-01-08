@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://previews.123rf.com/images/ashasha/ashasha1908/ashasha190800330/128305936-sprinkles-grainy-cupcake-donuts-dessert-sugar-bakery-background-sweet-confetti-on-white-chocolate-gl.jpg");
+  background: cover;
+  background-repeat: no-repeat;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  background-color: #ffffff;
+  margin: 50px;
+  margin-top: 0px;
+}
+
+.best {
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #f1c70c;
+}
+
+ul {
+  list-style-position: inside;
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  height: 250px;
+  width: auto;
+  margin-bottom: 0px;
+}
