@@ -31,3 +31,17 @@ img {
   width: auto;
   margin-bottom: 0px;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  img {
+    width: 400px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  img {
+    width: 200px;
+    height: auto;
+  }
+}
